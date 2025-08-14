@@ -1,0 +1,6 @@
+@QuickBiilingTest_HostAddress = http://localhost:5227
+
+GET {{QuickBiilingTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
